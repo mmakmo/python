@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2017</copyright>
+ <lastBuildDate>Thu, 23 Feb 2017 22:22:01 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2017年2月23日　商標問題をクリア！ DebianメールクライアントをIcedoveからふたたびThunderbirdへ ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201702/23</link>
+  <description>クラウドやモバイルが一般的になり，デスクトップ向けのクライアントソフトウェアの需要が激減してから久しい。</description>
+  <pubDate>Thu, 23 Feb 2017 16:43:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201702/23</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2017年2月23日　仲良し兄弟ねこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201702/23</link>
+  <description>前の子が弟くんで，後ろがお兄ちゃん</description>
+  <pubDate>Thu, 23 Feb 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201702/23</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>第17回　Scrapbox（2） ── 増井ラボノート コロンブス日和</title>
+  <link>http://gihyo.jp/dev/serial/01/masui-columbus/0017</link>
+  <description>前回では，シンプルで強力なWikiシステム「Scrapbox」の概要を紹介しましたが，今回はScrapboxの機能についてより詳しく紹介したいと思います。</description>
+  <pubDate>Thu, 23 Feb 2017 10:24:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/masui-columbus">増井ラボノート コロンブス日和</category>
+  <guid>http://gihyo.jp/dev/serial/01/masui-columbus/0017</guid> 
+  <author>増井俊之</author>
+ </item>
+ <item>
+  <title>第23回　型は苦しい（かもしれない）が役に立つ ── 書いて覚えるSwift入門</title>
+  <link>http://gihyo.jp/dev/serial/01/swift-introduction/0023</link>
+  <description>今回は他の言語の例も交えつつ，Swiftの型に対する姿勢を見ていくことにしましょう。</description>
+  <pubDate>Thu, 23 Feb 2017 10:23:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/swift-introduction">書いて覚えるSwift入門</category>
+  <guid>http://gihyo.jp/dev/serial/01/swift-introduction/0023</guid> 
+  <author>小飼弾</author>
+ </item>
+ <item>
+  <title>第88回　DTraceの使い方 その8 ── BSD界隈四方山話</title>
+  <link>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0088</link>
+  <description>今回もDTraceの使い方について解説します。</description>
+  <pubDate>Thu, 23 Feb 2017 10:22:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/bsd-yomoyama">BSD界隈四方山話</category>
+  <guid>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0088</guid> 
+  <author>後藤大地</author>
+ </item>
+ <item>
+  <title>2017年2月第4週号 1位は，デザインの心理学によってユーザーを理解するためのヒント，気になるネタは，次世代iPhoneはワイヤレス充電の可能性―AppleはWPCに加入 ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201702/23</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2017年2月13日～2月19日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 23 Feb 2017 10:21:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201702/23</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2017年2月第4週　今年のGoogle I/Oは5月17～19日に開催，Instant Appsが実機テストを開始 ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201702/23</link>
+  <description>2017年2月第4週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 23 Feb 2017 10:20:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201702/23</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2017年2月22日　本日はねこの日なるぞー！ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201702/22</link>
+  <description>弊社のアイドルねこ社長の秘密が明らかに！</description>
+  <pubDate>Wed, 22 Feb 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201702/22</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>アドバンスソフトウェア，Java対応Excelファイル生成コンポーネント「ExcelCreator for Java」を発売 ── ニュースリリース</title>
+  <link>http://gihyo.jp/news/nr/2017/02/2201</link>
+  <description>アドバンスソフトウェア（株）はJavaプログラムでExcelファイルを生成できるコンポーネント「ExcelCreator for Java」を2月22日に発売した。</description>
+  <pubDate>Wed, 22 Feb 2017 13:25:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>http://gihyo.jp/news/nr/2017/02/2201</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>第459回　LXDを使ってDockerコンテナをマイグレーション ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0459</link>
+  <description>LXDとDockerは排他的な存在ではなく，用途にあわせて組み合わせて使うと便利なツールです。そこで今回はLXDで作った仮想環境上でDockerコンテナを動かす方法を紹介します。</description>
+  <pubDate>Wed, 22 Feb 2017 11:10:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0459</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>第41回　Plack::Middleware再入門（3） ── Perl Hackers Hub</title>
+  <link>http://gihyo.jp/dev/serial/01/perl-hackers-hub/004103</link>
+  <description>さて，いろいろなPlack::Middlewareを利用していると，CPANにはないものが欲しくなって自分で書く場面がやってきます。</description>
+  <pubDate>Wed, 22 Feb 2017 10:21:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/perl-hackers-hub">Perl Hackers Hub</category>
+  <guid>http://gihyo.jp/dev/serial/01/perl-hackers-hub/004103</guid> 
+  <author>岡林大</author>
+ </item>
+ <item>
+  <title>ロクナナワークショップ「斉藤孝之のAWSではじめるクラウド入門講座」を開講 ── ロクナナワークショップ NEWS &amp; REPORT</title>
+  <link>http://gihyo.jp/design/serial/01/67ws/0131</link>
+  <description>Webデザインの学校 ロクナナワークショップは， 2017年3月より，アマゾン ウェブ サービスの入門講座を開講します。</description>
+  <pubDate>Wed, 22 Feb 2017 10:20:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/serial/01/67ws">ロクナナワークショップ NEWS &amp; REPORT</category>
+  <guid>http://gihyo.jp/design/serial/01/67ws/0131</guid> 
+  <author>Web制作の学校 ロクナナワークショップ</author>
+ </item>
+ <item>
+  <title>2017年2月21日　ねこは近視でも視野が広い！ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201702/21</link>
+  <description>視野が広いから後ろから脅かすのはむずかしいかも。</description>
+  <pubDate>Tue, 21 Feb 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201702/21</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>第39回　MySQLのドキュメントを探しにいこう ── MySQL道普請便り</title>
+  <link>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0039</link>
+  <description>MySQLのドキュメントといえば日本語版 MySQL 5.6 リファレンスマニュアルを想像されるかと思いますが，MySQLのドキュメントにはその他のものも数多くあります。</description>
+  <pubDate>Tue, 21 Feb 2017 10:21:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0039</guid> 
+  <author>yoku0825</author>
+ </item>
+ <item>
+  <title>第41回　Plack::Middleware再入門（2） ── Perl Hackers Hub</title>
+  <link>http://gihyo.jp/dev/serial/01/perl-hackers-hub/004102</link>
+  <description>Plack::Middlewareの3パターンについて具体的なモジュールを見ながら理解を深めたところで，CPANにアップロードされているPlack::Middlewareの中から，筆者が注目しているものをピックアップして紹介したいと思います。</description>
+  <pubDate>Tue, 21 Feb 2017 10:20:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/perl-hackers-hub">Perl Hackers Hub</category>
+  <guid>http://gihyo.jp/dev/serial/01/perl-hackers-hub/004102</guid> 
+  <author>岡林大</author>
+ </item>
+ <item>
+  <title>2017年2月21日　Linux 4.10が正式リリース ―GPU仮想化のサポート，新&quot;perf c2c&quot;ツールなど ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201702/21</link>
+  <description>Linus Torvaldsは2月19日（米国時間），Linux 4.10を正式公開した。</description>
+  <pubDate>Tue, 21 Feb 2017 10:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201702/21</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2017年2月20日　テヘペロ顔の茶トラ！ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201702/20</link>
+  <description>茶トラは「チャトラコ」と呼ぶ派です。</description>
+  <pubDate>Mon, 20 Feb 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201702/20</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>第4回　18歳までに学ぶべき数学 ── 瀬山士郎先生の 数学よもやま話</title>
+  <link>http://gihyo.jp/science/serial/01/math-shortstory/0004</link>
+  <description>かつて，名著「数学入門（上下）」（岩波新書）の前書きで故遠山啓は『20世紀後半の世界に活動する日本人に必要な数学として，私は一応「微分方程式まで」という線を引いてみた。</description>
+  <pubDate>Mon, 20 Feb 2017 10:22:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/science/serial/01/math-shortstory">瀬山士郎先生の 数学よもやま話</category>
+  <guid>http://gihyo.jp/science/serial/01/math-shortstory/0004</guid> 
+  <author>瀬山士郎</author>
+ </item>
+ <item>
+  <title>第41回　Plack::Middleware再入門（1） ── Perl Hackers Hub</title>
+  <link>http://gihyo.jp/dev/serial/01/perl-hackers-hub/004101</link>
+  <description>本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはbayashiこと岡林大さんで，テーマは「Plack::Middleware再入門」です。</description>
+  <pubDate>Mon, 20 Feb 2017 10:21:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/perl-hackers-hub">Perl Hackers Hub</category>
+  <guid>http://gihyo.jp/dev/serial/01/perl-hackers-hub/004101</guid> 
+  <author>岡林大</author>
+ </item>
+ <item>
+  <title>第12回　「すぐに使える障害管理テンプレート」なら簡単！ JIRAでラクラクIT運用業務（後編） ── うまくいくチーム開発のツール戦略</title>
+  <link>http://gihyo.jp/dev/serial/01/teamdev-toolstrategy/0012</link>
+  <description>前編では，ITILにしたがった「インシデント管理」と「問題管理」のうち，インシデント管理の進め方を説明しました。JIRAに即導入できるテンプレートを使うことで，迷わずに進められるのではないでしょうか。</description>
+  <pubDate>Mon, 20 Feb 2017 10:20:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/teamdev-toolstrategy">うまくいくチーム開発のツール戦略</category>
+  <guid>http://gihyo.jp/dev/serial/01/teamdev-toolstrategy/0012</guid> 
+  <author>大塚和彦，山本鮎美，斎藤智昭</author>
+ </item>
+</channel>
+</rss>
