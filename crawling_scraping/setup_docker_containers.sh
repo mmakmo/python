@@ -17,3 +17,6 @@ echo $SUDO_PW | sudo -S docker run -d --name mysql -p 0.0.0.0:3306:3306 \
     -e MYSQL_USER=user \
     -e MYSQL_PASSWORD=pass \
     mysql --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+
+#MongoDB
+echo $SUDO_PW | sudo -S docker run -d --name mongo -p 127.0.0.1:27017:27017 mongo
