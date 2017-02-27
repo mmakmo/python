@@ -8,3 +8,4 @@ pip3 install --upgrade beautifulsoup4
 pip3 install --upgrade feedparser
 pip3 install --upgrade mysqlclient
 pip3 install --upgrade pymongo
+pip3 install --upgrade retrying
