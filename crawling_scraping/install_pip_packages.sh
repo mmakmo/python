@@ -9,3 +9,7 @@ pip3 install --upgrade feedparser
 pip3 install --upgrade mysqlclient
 pip3 install --upgrade pymongo
 pip3 install --upgrade retrying
+
+# @chapter 04
+pip3 install --upgrade CacheControl
+pip3 install --upgrade voluptuous
