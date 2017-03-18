@@ -13,3 +13,10 @@ pip3 install --upgrade retrying
 # @chapter 04
 pip3 install --upgrade CacheControl
 pip3 install --upgrade voluptuous
+
+# @chapter 05
+pip3 install --upgrade mecab-python3
+pip3 install --upgrade pandas
+pip3 install --upgrade matplotlib
+pip3 install --upgrade xlrd
+pip3 install --upgrade PDFMiner.six
